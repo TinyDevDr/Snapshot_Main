@@ -1,288 +1,55 @@
-Contribution: 2019-10-22 17:00
+# Snap Shot [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=See%20this%20react%20example&url=https://yog9.github.io/SnapShot/&hashtags=react,context-api,freecodecamp,developers)
 
-Contribution: 2019-10-22 16:01
+[![Build Status](https://travis-ci.org/Yog9/SnapShot.svg?branch=master)](https://travis-ci.org/Yog9/SnapShot)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.com/Yog9/SnapShot.svg)](http://hits.dwyl.com/Yog9/SnapShot)
 
-Contribution: 2019-10-22 16:02
+[Demo of Snap Shot](https://yog9.github.io/SnapShot/)
 
-Contribution: 2019-10-22 19:03
+![](/snapscout.png)
 
-Contribution: 2019-10-22 20:04
+### Summary
 
-Contribution: 2019-10-22 18:05
+Snap Shot is a gallery created using React,React Hooks, React Router and Context API. The Routes were setup for four default pages and a search page. Also the images were displayed using the Flickr API and axios to fetch data.
 
-Contribution: 2019-10-22 20:06
+### Motivation
 
-Contribution: 2019-10-23 16:00
+The purpose of this project was to get familiar with React Hooks and Context API.
 
-Contribution: 2019-10-23 16:01
+### Getting Started
 
-Contribution: 2019-10-23 20:02
+Click the demo link or clone/download the repository on your local machine.
+Create a config.js file in api folder inside src folders. In config.js file write
+`export const apiKey = "YOUR_FLIKR_API_KEY";`
 
-Contribution: 2019-10-23 19:03
+##### Install dependencies
 
-Contribution: 2019-10-28 18:00
+`yarn install`
 
-Contribution: 2019-10-28 18:01
+##### Run Snap Shot from the root directory.
 
-Contribution: 2019-10-28 19:02
+`yarn start`
 
-Contribution: 2019-10-28 20:03
+### Built With
 
-Contribution: 2019-10-30 19:00
+- React js
+- React Router
+- React Hooks
+- Context API
+- Flickr API
 
-Contribution: 2019-10-30 16:01
+### Features
 
-Contribution: 2019-10-30 18:02
+**1. Responsive Design.**
 
-Contribution: 2019-10-31 19:00
+**2. Search functionality added to search photos from API.**
 
-Contribution: 2019-10-31 17:01
+### Coming Soon
 
-Contribution: 2019-10-31 17:02
+- [ ] Cypress E2E Tests
 
-Contribution: 2019-10-31 16:03
+### Contributing
 
-Contribution: 2019-10-31 17:04
+Everyone is welcomed to contribute to this project. You can contribute either by submitting bugs or suggesting improvements by opening an issue on GitHub. Please see the [CONTRIBUTING](CONTRIBUTING.md) guidelines for more information.
 
-Contribution: 2019-10-31 17:05
-
-Contribution: 2019-10-31 19:06
-
-Contribution: 2019-10-31 20:07
-
-Contribution: 2019-10-31 17:08
-
-Contribution: 2019-10-31 20:09
-
-Contribution: 2019-11-01 19:00
-
-Contribution: 2019-11-01 20:01
-
-Contribution: 2019-11-01 20:02
-
-Contribution: 2019-11-01 18:03
-
-Contribution: 2019-11-06 18:00
-
-Contribution: 2019-11-06 17:01
-
-Contribution: 2019-11-06 17:02
-
-Contribution: 2019-11-06 20:03
-
-Contribution: 2019-11-06 17:04
-
-Contribution: 2019-11-06 18:05
-
-Contribution: 2019-11-06 16:06
-
-Contribution: 2019-11-06 18:07
-
-Contribution: 2019-11-06 18:08
-
-Contribution: 2019-11-07 18:00
-
-Contribution: 2019-11-07 19:01
-
-Contribution: 2019-11-07 17:02
-
-Contribution: 2019-11-07 17:03
-
-Contribution: 2019-11-07 16:04
-
-Contribution: 2019-11-07 20:05
-
-Contribution: 2019-11-07 19:06
-
-Contribution: 2019-11-07 19:07
-
-Contribution: 2019-11-07 17:08
-
-Contribution: 2019-11-10 17:00
-
-Contribution: 2019-11-10 16:01
-
-Contribution: 2019-11-10 17:02
-
-Contribution: 2019-11-10 20:03
-
-Contribution: 2019-11-10 16:04
-
-Contribution: 2019-11-10 16:05
-
-Contribution: 2019-11-10 18:06
-
-Contribution: 2019-11-10 19:07
-
-Contribution: 2019-11-10 16:08
-
-Contribution: 2019-11-15 19:00
-
-Contribution: 2019-11-15 19:01
-
-Contribution: 2019-11-15 18:02
-
-Contribution: 2019-11-21 16:00
-
-Contribution: 2019-11-21 16:01
-
-Contribution: 2019-11-21 19:02
-
-Contribution: 2019-11-21 19:03
-
-Contribution: 2019-11-21 19:04
-
-Contribution: 2019-11-21 19:05
-
-Contribution: 2019-11-23 20:00
-
-Contribution: 2019-11-23 19:01
-
-Contribution: 2019-11-23 16:02
-
-Contribution: 2019-11-23 19:03
-
-Contribution: 2019-11-23 20:04
-
-Contribution: 2019-11-25 19:00
-
-Contribution: 2019-11-25 16:01
-
-Contribution: 2019-11-25 17:02
-
-Contribution: 2019-11-25 17:03
-
-Contribution: 2019-11-25 18:04
-
-Contribution: 2019-11-25 19:05
-
-Contribution: 2019-11-25 16:06
-
-Contribution: 2019-11-25 20:07
-
-Contribution: 2019-11-26 16:00
-
-Contribution: 2019-11-26 20:01
-
-Contribution: 2019-11-26 19:02
-
-Contribution: 2019-11-26 17:03
-
-Contribution: 2019-11-26 16:04
-
-Contribution: 2019-11-26 20:05
-
-Contribution: 2019-11-26 17:06
-
-Contribution: 2019-11-26 20:07
-
-Contribution: 2019-11-26 17:08
-
-Contribution: 2019-12-05 16:00
-
-Contribution: 2019-12-05 18:01
-
-Contribution: 2019-12-05 16:02
-
-Contribution: 2019-12-06 18:00
-
-Contribution: 2019-12-06 19:01
-
-Contribution: 2019-12-06 19:02
-
-Contribution: 2019-12-06 20:03
-
-Contribution: 2019-12-06 16:04
-
-Contribution: 2019-12-06 16:05
-
-Contribution: 2019-12-06 19:06
-
-Contribution: 2019-12-07 17:00
-
-Contribution: 2019-12-07 18:01
-
-Contribution: 2019-12-07 16:02
-
-Contribution: 2019-12-07 19:03
-
-Contribution: 2019-12-07 18:04
-
-Contribution: 2019-12-09 16:00
-
-Contribution: 2019-12-09 16:01
-
-Contribution: 2019-12-09 16:02
-
-Contribution: 2019-12-09 19:03
-
-Contribution: 2019-12-09 16:04
-
-Contribution: 2019-12-12 16:00
-
-Contribution: 2019-12-12 17:01
-
-Contribution: 2019-12-12 19:02
-
-Contribution: 2019-12-12 19:03
-
-Contribution: 2019-12-12 20:04
-
-Contribution: 2019-12-12 19:05
-
-Contribution: 2019-12-12 18:06
-
-Contribution: 2019-12-12 16:07
-
-Contribution: 2019-12-13 16:00
-
-Contribution: 2019-12-13 16:01
-
-Contribution: 2019-12-13 19:02
-
-Contribution: 2019-12-13 18:03
-
-Contribution: 2019-12-13 18:04
-
-Contribution: 2019-12-13 18:05
-
-Contribution: 2019-12-13 16:06
-
-Contribution: 2019-12-13 19:07
-
-Contribution: 2019-12-16 19:00
-
-Contribution: 2019-12-19 16:00
-
-Contribution: 2019-12-19 17:01
-
-Contribution: 2019-12-19 19:02
-
-Contribution: 2019-12-19 18:03
-
-Contribution: 2019-12-19 16:04
-
-Contribution: 2019-12-19 18:05
-
-Contribution: 2019-12-19 17:06
-
-Contribution: 2019-12-19 20:07
-
-Contribution: 2019-12-19 19:08
-
-Contribution: 2019-12-20 18:00
-
-Contribution: 2019-12-20 19:01
-
-Contribution: 2019-12-20 20:02
-
-Contribution: 2019-12-20 19:03
-
-Contribution: 2019-12-20 18:04
-
-Contribution: 2019-12-20 16:05
-
-Contribution: 2019-12-20 18:06
-
-Contribution: 2019-12-20 20:07
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
